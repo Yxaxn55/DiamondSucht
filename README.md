@@ -1,2 +1,2 @@
 # DiamondSucht
-Bitte nicht lesen sonst mstirbst du!!!!
+Bitte nicht lesen sonst stirbst du!!!!
