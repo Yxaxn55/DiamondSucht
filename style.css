@@ -1,0 +1,49 @@
+#wrapper {
+	width: 1178px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: arial, sans-serif;
+}
+
+nav {
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+
+a {
+	color: #777;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+}
+
+header {
+
+}
+
+section {
+	width: 850px;
+	height: 550px;
+	float: left;
+	background: black;
+}
+
+aside {
+	width: 328px;
+	height: 550px;
+	float: right;
+	background: aqua;
+}
+
+footer {
+		height: 20px;
+		clear: both;
+		background: black;
+}
